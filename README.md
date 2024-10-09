@@ -7,8 +7,11 @@ geliştirmek için SCSS kullanılmış olup, gelecekteki geliştirmeler için es
 # Özellikler
 <br>
 - **Duyarlı Tasarım**: Hem masaüstü hem de mobil cihazlar için optimize edilmiştir.
+
 - **Modüler SCSS Yapısı**: Daha iyi bakım ve ölçeklenebilirlik için düzenli SCSS dosyaları.
+  
 - **Tarayıcı Uyumluluğu**: Modern web tarayıcılarında sorunsuz çalışır.
+  
 - **Özelleştirilebilir Stiller**: Değişkenler ve karışımlar kullanılarak kolayca güncellenebilir ve özelleştirilebilir.
 
 # Ekran kaydı
